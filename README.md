@@ -1,5 +1,5 @@
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=710052&layout=compact&langs_count=10&exclude_repo=jhipster-books" /> </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=710052&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs,prs" />
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=710052&layout=compact&langs_count=10&exclude_repo=jhipster-books" /> </a><p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=710052&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs,prs" /></p>
 
 
 <!-- 👋 Hi, I’m Josh
